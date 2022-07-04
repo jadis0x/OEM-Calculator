@@ -5,7 +5,7 @@
 ![alt text](https://i.hizliresim.com/27huv35.png)
 ![alt text](https://i.hizliresim.com/h1xgrb6.png)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=darkprince0x&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=jadis0x&show_icons=true&theme=radical)
 
 
 
